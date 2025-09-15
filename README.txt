@@ -1,0 +1,2 @@
+This repository contains all the tasks I completed during my project-based internship at CodeAlpha.  
+Each folder corresponds to a specific task, including source code, datasets (if applicable), and documentation.
